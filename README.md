@@ -58,12 +58,6 @@ The course supports two testable hypotheses:
 
 **H2 (Bandwidth/Clustering):** Optimal small-world clustering statistics depend on input/output dimensionality ratio — monitorable during pruning experiments.
 
-## Project Context
-
-This is the technical portfolio component (Project B) of a two-project research plan aimed at entering AI alignment research from a neuroscience background. The companion project (Project A) is a three-part paper series on integrated moral agency, grounded in the neuroscience of empathy, predictive cognition, and their integration.
-
-The neuroscience training (EEG, MVPA, RSA) maps directly onto mechanistic interpretability — representational geometry, decoding, and neural population coding. The same RSA tools used to study biological neural representations will be applied to compare learned representations across network architectures initialised with different topologies.
-
 ## License
 
 MIT
